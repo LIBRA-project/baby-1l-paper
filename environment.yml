@@ -24,3 +24,4 @@ dependencies:
       - matplotlib-label-lines
       - h-transport-materials
       - morethemes
+      - drawarrow
